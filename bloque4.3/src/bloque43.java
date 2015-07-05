@@ -7,7 +7,7 @@ public class bloque43 {
 		int temporal;
 		
 		for(int i=0; i<vector.length; i++) {
-			System.out.print(vector[i] +" ");
+			System.out.print(vector[i] +" "); 
 		}
 		System.out.println("");
 		
